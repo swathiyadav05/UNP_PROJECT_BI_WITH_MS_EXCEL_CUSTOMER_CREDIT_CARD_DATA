@@ -7,4 +7,4 @@ Used Excel features like conditional formatting, charts, slicers, and functions.
 Aimed to provide a clear understanding of customer segmentation and risk profiling.
 Ideal for beginners exploring data analytics using Excel.
 
-MS EXCEL PROJECT FILE: https://docs.google.com/spreadsheets/d/1e3v_a64cRV-oiywgb8gGWSrna-kV7CSB/edit?usp=sharing&ouid=100967592667673551101&rtpof=true&sd=true
+MS EXCEL PROJECT FILE: https://1drv.ms/x/c/46a5f30f5c474501/EVyMn9EuGjJNnlsgPR99wSUBduKwyBq_ZrHlUhsJz2TqCw?e=bsFKr3
